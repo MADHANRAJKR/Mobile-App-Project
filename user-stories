@@ -1,1 +1,28 @@
+# User Stories – Mobile Application
 
+## User Story 1
+As a user, I want to register an account so that I can access the application.
+
+## User Story 2
+As a user, I want to log into the application securely.
+
+## User Story 3
+As a user, I want to view items on the home screen.
+
+## User Story 4
+As a user, I want to view detailed information about an item.
+
+## User Story 5
+As a user, I want my data saved locally for future use.
+
+## User Story 6
+As a user, I want the app to fetch data from an external API.
+
+## User Story 7
+As a user, I want to access application settings.
+
+## User Story 8
+As a user, I want to receive notifications from the app.
+
+## User Story 9
+As a user, I want to manage my profile or favorites.
